@@ -1,0 +1,3 @@
+product_id,variant_id,sku,url,alt,sort_order,is_primary,is_active
+123,12301,VEST-MIDI-001,https://cdn.jsdelivr.net/gh/SEUUSUARIO/NOME-DO-REPO@main/produtos/VEST-MIDI-001/azul/vestido-midi-azul-frente-1.jpg,Vestido midi azul — frente,1,True,True
+123,12301,VEST-MIDI-001,https://cdn.jsdelivr.net/gh/SEUUSUARIO/NOME-DO-REPO@main/produtos/VEST-MIDI-001/azul/vestido-midi-azul-costas-2.jpg,Vestido midi azul — costas,2,False,True
